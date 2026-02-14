@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Taha Bouchoucha</h1>
-<p>Welcome to my profile! I am <b>Taha Bouchoucha</b>, a PhD Researcher in Artificial Intelligence  from <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Algeria</b>. I am currently conducting my research at the <b>University Center El Cherif Bouchoucha Aflou</b>, Institute of Sciences.</p>
+<p>Welcome to my profile! I am <b>Taha Bouchoucha</b>, a PhD Researcher in Artificial Intelligence  from <b>Algeria</b>. I am currently conducting my research at the <b>University Center El Cherif Bouchoucha Aflou</b>, Institute of Sciences.</p>
 +3
 
 🎓 PhD Research Focus
